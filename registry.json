@@ -26,7 +26,7 @@
         "xprv": "zprv"
       },
       {
-        "name": "taproot",
+        "name": "taproot", 
         "path": "m/86'/0'/0'/0/0",
         "xpub": "zpub",
         "xprv": "zprv"
@@ -83,7 +83,7 @@
     "explorer": {
       "url": "https://blockchair.com",
       "txPath": "/litecoin/transaction/",
-      "accountPath": "/litecoin/address/"
+      "accountPath": "/litecoin/addresks/"
     },
     "info": {
       "url": "https://litecoin.org",
@@ -279,7 +279,7 @@
     "explorer": {
       "url": "https://blockbook.electrum-mona.org",
       "txPath": "/tx/",
-      "accountPath": "/address/"
+      "accountPath": "/address/"bc1q20ek3cdvht82dz956902vsyu4qsvpjxg5xgneh
     },
     "info": {
       "url": "https://monacoin.org",
